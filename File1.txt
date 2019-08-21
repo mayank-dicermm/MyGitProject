@@ -1,8 +1,8 @@
 This is file1 to write helloword...!!!
 
-class myclass{
+class MyClass{
 
-	public staic void main(){
+	public staic void main(String args[]){
 
 		sysout("Hell World....wlcome to git...Welcome");
 	}
