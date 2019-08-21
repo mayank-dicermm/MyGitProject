@@ -2,9 +2,9 @@ This is file1 to write helloword...!!!
 
 class myclass{
 
-public staic void main(){
+	public staic void main(){
 
-sysout("Hell World....wlcome to git...");
-}
+		sysout("Hell World....wlcome to git...Welcome");
+	}
 
 }
