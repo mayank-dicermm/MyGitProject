@@ -2,9 +2,13 @@ This is file1 to write helloword...!!!
 
 class MyClass{
 
+	void myMethod(){
+		sysout("Hell World....wlcome to git...Welcome");
+	}
+
 	public staic void main(String args[]){
 
-		sysout("Hell World....wlcome to git...Welcome");
+		
 	}
 
 }
