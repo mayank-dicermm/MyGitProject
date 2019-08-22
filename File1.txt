@@ -3,13 +3,14 @@ This is file1 to write helloword...!!!
 class MyClass{
 
 
-	private static void myMethod(String str){
+	private void myMethod(String str){
 		sysout(str);
 	}
 
 	public staic void main(String args[]){
 
-		myMethod("Welcome Git...!!!);
+		MyClass obj = new MyClass();
+		obj.myMethod("test test");
 	}
 
 }
